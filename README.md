@@ -47,5 +47,5 @@ Ex : we have 2 files which are "README.md" and "Temp.py" files,add it to the ind
 
 > Create a repository on GitHub. Notice that the name of the repository should be the same as the repository's on the local system. In this case, it will be "Mytest". To do this login to your account on https://github.com. Then click on the "plus(+)" symbol at the top right corner of the page and select "create new repository". Fill the details as shown in the image below and click on "create repository" button.
 
-! [new repository](new_repository.png)
+! [new repository](/new_repository.png)
       
