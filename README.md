@@ -52,4 +52,10 @@ Ex : we have 2 files which are "README.md" and "Temp.py" files,add it to the ind
 Once this is created, we can push the contents of the local repository onto the GitHub repository in your profile. Connect to the repository on GitHub using the command:
 
 Important Note: Make sure you replace 'user_name' and 'Mytest' in the path with your Github username and folder before running the command!
-      
+    
+> *git remote add origin https://github.com/user_name/Mytest.git*
+
+8. **Pushing files in local repository to GitHub repository:**
+
+> *git push origin master*
+
