@@ -17,19 +17,22 @@
 3. Creating a local repository:
 
 > git init Mytest
+
 where 'Mytest' is the new repository name.
+
 > cd Mytest
 
 4. Creating a README file to describe the repository:
 
 > gedit README.md
+
 Here readme.md file will creates on the current folder/path  & once text editor opens , enter data onto readme.md file.and also copy your code file onto the current working directory.
       
       
 5. Adding repository files to an index:
 
-> Ex : we have 2 files which are "README.md" and "Temp.py" files.
-add it to the index by using the following 2 commands:
+> Ex : we have 2 files which are "README.md" and "Temp.py" files,add it to the index by using the following 2 commands:
+
 > git add README.md
 
 > git add Temp.py
@@ -37,6 +40,7 @@ add it to the index by using the following 2 commands:
 6.  Committing changes made to the index:
 
 > git commit -m "some_message"
+
 "some_message" in the above command can be any simple message like "my first commit" or "edit in readme", etc.
       
 7.  Create a repository on GitHub
