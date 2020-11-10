@@ -59,3 +59,7 @@ Important Note: Make sure you replace 'user_name' and 'Mytest' in the path with 
 
 > *git push origin master*
 
+
+## For more details , please have look on below file :
+
+https://github.com/girishsj11/git_commands/blob/master/Git-Cheatsheet.pdf
