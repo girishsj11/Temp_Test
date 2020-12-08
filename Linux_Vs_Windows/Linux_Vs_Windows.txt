@@ -49,3 +49,10 @@ Linux Vs Windows
 		- Windows : Administrator, Standard, Child, Guest 
 		- Linux : Regular, Root , Service Account
 		- Administrator & root users will have all administrative privileges.
+		
+	14. Linux command type :
+		- internal : which resides in internal memory.
+		- external : which resides in usr\bin location.
+		
+		type <command> : which gives the location of command.
+		
