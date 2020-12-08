@@ -67,10 +67,10 @@
 		
 14. Linux command type :
 
-	 - internal : which resides in internal memory.
-	 - external : which resides in usr\bin location.
+	 - internal : which resides in internal memory.(shows as builtin)
+	 - external : which resides in /usr/bin location.(shows /usr/bin location)
   	
 	   type [command] : which gives the location of command.
 		
-	 ![Command type](./type_command.png)
+	   ![Command type](./type_command.png)
  
