@@ -70,4 +70,4 @@
 	 - internal : which resides in internal memory.
 	 - external : which resides in usr\bin location.
 		
-	    type <command> : which gives the location of command.
+	    		type <command> : which gives the location of command.
