@@ -74,3 +74,6 @@
 		
 	   ![Command type](./type_command.png)
  
+ 15. ***Usefull linux commands :***
+ 
+ 	https://github.com/girishsj11/git_commands/blob/master/Linux_Vs_Windows/linuxcommands.pdf
