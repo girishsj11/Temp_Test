@@ -53,7 +53,7 @@ Once this is created, we can push the contents of the local repository onto the 
 
 Important Note: Make sure you replace 'user_name' and 'Mytest' in the path with your Github username and folder before running the command!
     
-> *git remote add origin https://github.com/user_name/Mytest.git*
+> *git remote add origin https://github.com/user_name/Mytest*
 
 8. **Pushing files in local repository to GitHub repository:**
 
