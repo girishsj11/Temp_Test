@@ -63,3 +63,8 @@ Important Note: Make sure you replace 'user_name' and 'Mytest' in the path with 
 ## For more details , please have look on below file :
 
 https://github.com/girishsj11/git_commands/blob/master/Git-Cheatsheet.pdf
+
+
+## Adding/embed the video files into readme.md file :
+
+***[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/JMSbrFLBz64)***
