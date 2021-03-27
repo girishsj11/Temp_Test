@@ -67,4 +67,4 @@ https://github.com/girishsj11/git_commands/blob/master/Git-Cheatsheet.pdf
 
 ## Adding/embed the video files into readme.md file :
 
-***[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/JMSbrFLBz64)***
+***[![Watch the video](https://image.shutterstock.com/image-photo/crimson-backed-sunbird-leptocoma-minima-600w-1366963022.jpg)](https://youtu.be/QO79orOvYJA)***
