@@ -67,8 +67,8 @@ https://github.com/girishsj11/git_commands/blob/master/Git-Cheatsheet.pdf
 
 ## Adding/embed the video files into readme.md file :
 
-> - [![Wild Karnataka Trailer]/(https://image.shutterstock.com/image-photo/crimson-backed-sunbird-leptocoma-minima-600w-1366963022.jpg)]/(https://youtu.be/QO79orOvYJA)
+> - [![**Wild Karnataka** documentary movie trailer]/(https://image.shutterstock.com/image-photo/crimson-backed-sunbird-leptocoma-minima-600w-1366963022.jpg)]/(https://youtu.be/QO79orOvYJA)
 > - remove '/' from the beginning of image & video link address. 
 
 
-***[![Watch the video](https://image.shutterstock.com/image-photo/crimson-backed-sunbird-leptocoma-minima-600w-1366963022.jpg)](https://youtu.be/QO79orOvYJA)***
+[![Wild Karnataka documentary movie trailer](https://image.shutterstock.com/image-photo/crimson-backed-sunbird-leptocoma-minima-600w-1366963022.jpg)](https://youtu.be/QO79orOvYJA)
